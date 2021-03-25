@@ -1,5 +1,5 @@
 - Hi i am Aaro24
 - I code C and Java
-- Minecraft hack-clients
-- Phobos and ohter clients
+- I am intrested in Minecraft hack-clients
+- I use Phobos Creepy-Salhack
 - My email is: Aaro24@protonmail.com
