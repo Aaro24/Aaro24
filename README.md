@@ -1,0 +1,5 @@
+- Hi i am Aaro24
+- I code C and Java
+- Minecraft hack-clients
+- Phobos and ohter clients
+- My email is: Aaro24@protonmail.com
